@@ -32,16 +32,24 @@ Encaixe os leds nas posições desejada, se atetando para o lado positivo e nega
 # Etapa 2: Primeira conexão com o arduino
 1. Pegue um jumper, de prêferencia com a cor PRETA, procure o pino com o nome: GND no arduino, espete-o no mesmo
 ![image](https://github.com/sudoshift/Arduino-Landia/assets/70298185/fa14a2f9-afcf-4ddf-878c-2f628d59605e)
+
 2. Encaixe no primeiro furinho da linha negativa da protoboard (Placa de ensaio)
 ![image](https://github.com/sudoshift/Arduino-Landia/assets/70298185/0723b9cc-761a-459c-8fbf-954edd6dc224)
-<p aligh="center"> Você terá algo como isto</p>
-![image](https://github.com/sudoshift/Arduino-Landia/assets/70298185/13e95b14-0bc4-4727-b33b-c77965a13296)
-</p>
+
+# Etapa 3: Conectando os leds no GND
+![image](https://github.com/sudoshift/Arduino-Landia/assets/70298185/cfef9b88-cd36-4fcc-8905-05feca32e82a)
+
+Na mesma linha vertical que está o resistor, encaixe um jumper, ligando até a trilha negativa da protoboard (placa de ensaio)
+
+![image](https://github.com/sudoshift/Arduino-Landia/assets/70298185/19307400-d75a-4d73-b3df-98fad62f8785)
+
 
 # Etapa 3: Conectando os leds no arduino
 - Aqui, precisamos de um pouco mais de atenção, pois será aqui que você irá escolher as portas que o arduino usará para trabalhar
 1. Pega 3 jumpers, de preferência: VERDE, AMARELO e VERMELHO, e espete um em cada furinho do lado que não tem o resistor no led, siga o exemplo a baixo
+
 ![image](https://github.com/sudoshift/Arduino-Landia/assets/70298185/5b67e820-a0f4-4cef-ab2b-858ccab66302)
+
 2. No arduino, encaixe os cabos,nestas seguintes portas:
 VERMELHO:  PORTA DIGITAL 13
 AMARELO: PORTA DIGITAL 12
@@ -55,6 +63,7 @@ As portas que o número inicia com "~", significa que elas possuem o recurso: PW
 # Pronto  
 
 com tudo feito da maneira explicado, temos algo semelhante a isto:
+
 ![image](https://github.com/sudoshift/Arduino-Landia/assets/70298185/7401e81c-e6f9-423a-8f8e-b6c5ea219a48)
 
 Faça o upload do script semaforo.ino que se encontra nesta pasta, ao arduino
