@@ -1,5 +1,5 @@
 # Repositório de Projetos Arduino | Arduino- Landia
- 
+![](https://c4.wallpaperflare.com/wallpaper/88/22/573/arduino-open-source-wallpaper-preview.jpg)
 Este repositório contém uma variedade de projetos para serem executados usando a placa Arduino. Cada projeto possui um arquivo `.ino` correspondente, que contém o código-fonte do programa para o Arduino. 
 
 
@@ -33,10 +33,13 @@ Este repositório é perfeito para professores que estão precisando de informa�
 
 # Baixando este repositório em seu computador
 
-    1. Abra o navegador e acesse o link do repositório no GitHub: [github.com/sudoshift/arduino-landia](github.com/sudoshift/arduino-landia)
-    2. Clique no botão "Code" (ou "Código") verde localizado acima da lista de arquivos.
-    3. Selecione a opção "Download ZIP" para baixar todo o repositório como um arquivo compactado ZIP.
-    4. Após o download ser concluído, extraia o arquivo ZIP para uma pasta de sua escolha.
+    Abra o navegador e acesse o link do repositório no GitHub: [github.com/sudoshift/arduino-landia](github.com/sudoshift/arduino-landia)
+    
+    Clique no botão "Code" (ou "Código") verde localizado acima da lista de arquivos.
+    
+    Selecione a opção "Download ZIP" para baixar todo o repositório como um arquivo compactado ZIP.
+    
+    Após o download ser concluído, extraia o arquivo ZIP para uma pasta de sua escolha.
 
 # Abrindo o arquivo .ino na IDE e transferindo para o Arduino
 
