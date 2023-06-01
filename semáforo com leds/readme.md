@@ -57,6 +57,6 @@ As portas que o número inicia com "~", significa que elas possuem o recurso: PW
 com tudo feito da maneira explicado, temos algo semelhante a isto:
 ![image](https://github.com/sudoshift/Arduino-Landia/assets/70298185/7401e81c-e6f9-423a-8f8e-b6c5ea219a48)
 
-Faça o upload do script semaforo.uni que se encontra nesta pasta, ao arduino
+Faça o upload do script semaforo.ino que se encontra nesta pasta, ao arduino
 
 # Fim :)
