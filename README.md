@@ -2,6 +2,8 @@
  
 Este repositório contém uma variedade de projetos para serem executados usando a placa Arduino. Cada projeto possui um arquivo `.ino` correspondente, que contém o código-fonte do programa para o Arduino. 
 
+### (Verifique se o seu sistema é windows ou linux)
+
 ## Baixando a IDE do Arduino no Windows
 
 1. Acesse o site oficial do Arduino IDE: [https://www.arduino.cc/en/software](https://www.arduino.cc/en/software).
