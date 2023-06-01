@@ -15,7 +15,7 @@ Este repositório contém uma variedade de projetos para serem executados usando
 
     1. Abra um terminal em seu sistema Linux.
     2. Execute os seguintes comandos, um de cada vez, para adicionar o repositório PPA necessário e instalar a IDE do Arduino:
-    ``` sudo apt-get update
+ sudo apt-get update
         sudo apt-get install arduino
-    ```
+
     Aguarde até que o processo de instalação seja concluído.
