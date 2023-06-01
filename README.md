@@ -4,7 +4,7 @@ Este repositório contém uma variedade de projetos para serem executados usando
 
 # Baixando a IDE do Arduino no Windows
 
-    1. Acesse o site oficial do Arduino IDE: (https://www.arduino.cc/en/software)[https://www.arduino.cc/en/software].
+    1. Acesse o site oficial do Arduino IDE: https://www.arduino.cc/en/software.
     2. Role a página para baixo até encontrar a seção "Download the Arduino IDE".
     3. Clique no link de download para a versão do Windows.
     4. Após o download ser concluído, execute o instalador.
@@ -15,7 +15,7 @@ Este repositório contém uma variedade de projetos para serem executados usando
 
     1. Abra um terminal em seu sistema Linux.
     2. Execute os seguintes comandos, um de cada vez, para adicionar o repositório PPA necessário e instalar a IDE do Arduino:
- sudo apt-get update
+        sudo apt-get update
         sudo apt-get install arduino
 
     Aguarde até que o processo de instalação seja concluído.
