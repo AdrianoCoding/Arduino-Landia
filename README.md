@@ -60,5 +60,5 @@ Este repositório é perfeito para professores que estão precisando de informa�
 
 Agora você está pronto para explorar e executar os projetos disponíveis neste repositório utilizando sua placa Arduino e a IDE apropriada. Divirta-se!
 <p align="center">
-⌨️ com ❤️ por [Adriano J](https://github.com/sudoshift/) 😊
+com ❤️ por <a href="https://github.com/sudoshift/">Adriano J</a> 😊
 </p>
