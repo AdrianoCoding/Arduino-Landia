@@ -1,5 +1,8 @@
 # Repositório de Projetos Arduino | Arduino- Landia
-![](https://c4.wallpaperflare.com/wallpaper/88/22/573/arduino-open-source-wallpaper-preview.jpg)
+<p align="center">
+  <img src="https://c4.wallpaperflare.com/wallpaper/88/22/573/arduino-open-source-wallpaper-preview.jpg" alt="Arduino">
+</p>
+
 Este repositório contém uma variedade de projetos para serem executados usando a placa Arduino. Cada projeto possui um arquivo `.ino` correspondente, que contém o código-fonte do programa para o Arduino. 
 
 
