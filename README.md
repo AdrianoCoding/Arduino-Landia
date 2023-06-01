@@ -36,13 +36,14 @@ Este repositório é perfeito para professores que estão precisando de informa�
 
 # Baixando este repositório em seu computador
 
-    Abra o navegador e acesse o link do repositório no GitHub: [github.com/sudoshift/arduino-landia](github.com/sudoshift/arduino-landia)
-    
-    Clique no botão "Code" (ou "Código") verde localizado acima da lista de arquivos.
-    
-    Selecione a opção "Download ZIP" para baixar todo o repositório como um arquivo compactado ZIP.
-    
-    Após o download ser concluído, extraia o arquivo ZIP para uma pasta de sua escolha.
+1. Abra o navegador e acesse o link do repositório no GitHub: [github.com/sudoshift/arduino-landia](https://github.com/sudoshift/arduino-landia)
+
+2. Clique no botão "Code" (ou "Código") verde localizado acima da lista de arquivos.
+
+3. Selecione a opção "Download ZIP" para baixar todo o repositório como um arquivo compactado ZIP.
+
+4. Após o download ser concluído, extraia o arquivo ZIP para uma pasta de sua escolha.
+
 
 # Abrindo o arquivo .ino na IDE e transferindo para o Arduino
 
@@ -58,5 +59,6 @@ Este repositório é perfeito para professores que estão precisando de informa�
 10. Após o upload ser concluído com sucesso, o programa será executado no Arduino.
 
 Agora você está pronto para explorar e executar os projetos disponíveis neste repositório utilizando sua placa Arduino e a IDE apropriada. Divirta-se!
-
+<p align="center">
 ⌨️ com ❤️ por [Adriano J](https://github.com/sudoshift/) 😊
+</p>
