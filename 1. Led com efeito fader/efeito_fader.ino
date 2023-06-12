@@ -1,6 +1,6 @@
 //Constante que representa o pino onde o positivo do 
 //led será ligado.
-const int led = 11;
+const int led = 11; //Significa que a porta digital 11 terá o controle do led
  
 // Efeito de fader
 int brilho = 0;
