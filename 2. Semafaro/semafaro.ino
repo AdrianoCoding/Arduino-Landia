@@ -1,6 +1,6 @@
 // Identificando as portas, com um nome 
-int vermelho = 10;
-int amarelo = 9;
+int vermelho = 13;
+int amarelo = 12;
 int verde = 8;
  
 void setup() {
